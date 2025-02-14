@@ -1,0 +1,13 @@
+{
+  "name": "bybit-proxy",
+  "version": "1.0.0",
+  "description": "Bybit API proxy for Google Sheets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.0"
+  }
+}
